@@ -9,7 +9,7 @@ class CalculateSumInArrayOfObject{
                     b1: [],
                     b2: [{}, [], () => {}]
                 },
-                c: { c1: [8, 9, 4] }
+                c: { c1: [8, 9, 4], c2: { list: [3,7,8,8,9] } }
         }
         this.arr = []
         this.arrNumbers = []
